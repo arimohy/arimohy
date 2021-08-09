@@ -1,6 +1,6 @@
 ### Hola Bienvenid@ a mi GitHub
 
-Mi nombre es Yhomira Aleandra Yupayccana Lopa
+Mi nombre es Yhomira Alexandra Yupayccana Lopa
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
