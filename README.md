@@ -7,8 +7,8 @@
 - 🇵🇪 &nbsp; Soy de Peru de la ciudad de Cusco.
 - 🎓 &nbsp; Estudie Ingenieria informatica y de sistemas en la UNSAAC.
 - 💼 &nbsp; Deseo poder aumentar mi experiencia en la área de desarrollo de software y en mis conocimientos en otras tecnologías. Siempre estoy abierta y ansiosa a aprender nuevas cosas como enfrentar retos.
-## Tecnologias
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 
+<h3> 🛠 &nbsp;Tecnologias</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -30,3 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=arimohy)](https://github.com/arimohy)
+
