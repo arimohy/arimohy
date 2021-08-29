@@ -1,4 +1,4 @@
-### Hola Bienvenid@ a mi GitHub
+## Hola Bienvenid@ a mi GitHub
 
 Mi nombre es Yhomira Alexandra Yupayccana Lopa
 
