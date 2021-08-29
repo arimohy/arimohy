@@ -29,6 +29,6 @@
 ##
 
 <a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimohy&layout=compact&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimohy&layout=compact" />
 </a>
 
